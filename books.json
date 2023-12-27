@@ -1,0 +1,220 @@
+{
+    "books": [
+      {
+        "name": "1. Administrative Law I Author Andres Molina Gimenez.pdf",
+        "category": "Administrative laws",
+        "address": "dataset\\Administrative law\\1. Administrative Law I Author Andres Molina Gimenez.pdf"
+      },
+      {
+        "name": "2. The Evolution of General Administrative Law and the Emergence of Postmodern Administrative Law Author Karl Heinz Ladeur.pdf",
+        "category": "Administrative laws",
+        "address": "dataset\\Administrative law\\2. The Evolution of General Administrative Law and the Emergence of Postmodern Administrative Law Author Karl Heinz Ladeur.pdf"
+      },
+      {
+        "name": "3. Administr Administrative Law Public Administr Public Administration and the Administr ation and the Administrative Conference of the United States  Author Gillian E Metzger.pdf",
+        "category": "Administrative laws",
+        "address": "dataset\\Administrative law\\3. Administr Administrative Law Public Administr Public Administration and the Administr ation and the Administrative Conference of the United States  Author Gillian E Metzger.pdf"
+      },
+      {
+        "name": "4. Administrative Law  Author Fairfield Institute of Management and Technology New Delhi.pdf",
+        "category": "Administrative laws",
+        "address": "dataset\\Administrative law\\4. Administrative Law  Author Fairfield Institute of Management and Technology New Delhi.pdf"
+      },
+      {
+        "name": "5. Study Material Administrative Law  Author Mr Ayush Jha,Ms Tilaka N S,Dr Manojkumar Hiremath.pdf",
+        "category": "Administrative laws",
+        "address": "dataset\\Administrative law\\5. Study Material Administrative Law  Author Mr Ayush Jha,Ms Tilaka N S,Dr Manojkumar Hiremath.pdf"
+      },
+      {
+        "name": "7. Basic Principles of Administrative Law Author Robert Musumeci Avukat Perit.pdf",
+        "category": "Administrative laws",
+        "address": "dataset\\Administrative law\\7. Basic Principles of Administrative Law Author Robert Musumeci Avukat Perit.pdf"
+      },
+      {
+        "name": "8. Administrative Law Author Aberham Yohannes.pdf",
+        "category": "Administrative laws",
+        "address": "dataset\\Administrative law\\8. Administrative Law Author Aberham Yohannes.pdf"
+      },
+      {
+        "name": "9. General Administrative Law ACT Author Legislationline.pdf",
+        "category": "Administrative laws",
+        "address": "dataset\\Administrative law\\9. General Administrative Law ACT Author Legislationline.pdf"
+      },
+      {
+        "name": "10. The Morality of Administrative Law Author Cass R Sunstein and Adrian Vermeule.pdf",
+        "category": "Administrative laws",
+        "address": "dataset\\Administrative law\\10. The Morality of Administrative Law Author Cass R Sunstein and Adrian Vermeule.pdf"
+      },
+      {
+        "name": "01. The general principles of civil law, their nature, roles and legitimacy author Martijn W. Hesselink.pdf",
+        "category": "Civil laws",
+        "address": "dataset\\Civil law\\01. The general principles of civil law, their nature, roles and legitimacy author Martijn W. Hesselink.pdf"
+      },
+      {
+        "name": "03. Introduction to the Civil Law System author Hiroshi Matsuo.pdf",
+        "category": "Civil laws",
+        "address": "dataset\\Civil law\\03. Introduction to the Civil Law System author Hiroshi Matsuo.pdf"
+      },
+      {
+        "name": "05. Intro to civil law legal systems author Scott N. Carlson.pdf",
+        "category": "Civil laws",
+        "address": "dataset\\Civil law\\05. Intro to civil law legal systems author Scott N. Carlson.pdf"
+      },
+      {
+        "name": "06. Understanding the Civil Law Tradition author P. G. Monateri.pdf",
+        "category": "Civil laws",
+        "address": "dataset\\Civil law\\06. Understanding the Civil Law Tradition author P. G. Monateri.pdf"
+      },
+      {
+        "name": "08. Civil Law and Criminal Law (Miscellaneous Provisions) Act 2020 author Various authors.pdf",
+        "category": "Civil laws",
+        "address": "dataset\\Civil law\\08. Civil Law and Criminal Law (Miscellaneous Provisions) Act 2020 author Various authors.pdf"
+      },
+      {
+        "name": "09. Civil Law Convention on Corruption author Council of Europe.pdf",
+        "category": "Civil laws",
+        "address": "dataset\\Civil law\\09. Civil Law Convention on Corruption author Council of Europe.pdf"
+      },
+      {
+        "name": "01. The Legal Environment and Business Law author Various authors.pdf",
+        "category": "Commercial laws",
+        "address": "dataset\\Commercial law\\01. The Legal Environment and Business Law author Various authors.pdf"
+      },
+      {
+        "name": "02. Fundamentals of Business Law author Melissa Randall and Community College of Denver Students.pdf",
+        "category": "Commercial laws",
+        "address": "dataset\\Commercial law\\02. Fundamentals of Business Law author Melissa Randall and Community College of Denver Students.pdf"
+      },
+      {
+        "name": "03. Business Law I Essentials author Rice University and OpenStax.pdf",
+        "category": "Commercial laws",
+        "address": "dataset\\Commercial law\\03. Business Law I Essentials author Rice University and OpenStax.pdf"
+      },
+      {
+        "name": "04. Commercial Law author London School of Economics.pdf",
+        "category": "Commercial laws",
+        "address": "dataset\\Commercial law\\04. Commercial Law author London School of Economics.pdf"
+      },
+      {
+        "name": "06. The Essential Elements of Corporate Law. What is Corporate Law author John Armour, Henry Hansmann and Reinier Kraakman.pdf",
+        "category": "Commercial laws",
+        "address": "dataset\\Commercial law\\06. The Essential Elements of Corporate Law. What is Corporate Law author John Armour, Henry Hansmann and Reinier Kraakman.pdf"
+      },
+      {
+        "name": "15. International Business Law author Pondicherry University.pdf",
+        "category": "Commercial laws",
+        "address": "dataset\\Commercial law\\15. International Business Law author Pondicherry University.pdf"
+      },
+      {
+        "name": "2. What is a Constitution, Principles and Concepts Author Elliot Bulmer.pdf",
+        "category": "Constitutional laws",
+        "address": "dataset\\Constitutional law\\2. What is a Constitution, Principles and Concepts Author Elliot Bulmer.pdf"
+      },
+      {
+        "name": "3. LAW 243 Author National open university nigeria.pdf",
+        "category": "Constitutional laws",
+        "address": "dataset\\Constitutional law\\3. LAW 243 Author National open university nigeria.pdf"
+      },
+      {
+        "name": "4. Constitutional Law I Author Sileshi Zeyohannes,Dagnachew Asrat.pdf",
+        "category": "Constitutional laws",
+        "address": "dataset\\Constitutional law\\4. Constitutional Law I Author Sileshi Zeyohannes,Dagnachew Asrat.pdf"
+      },
+      {
+        "name": "5. Effectuating the Constitution Constitutional Law in View of Economic and Social Progress Author Dr Ulrich Karpen.pdf",
+        "category": "Constitutional laws",
+        "address": "dataset\\Constitutional law\\5. Effectuating the Constitution Constitutional Law in View of Economic and Social Progress Author Dr Ulrich Karpen.pdf"
+      },
+      {
+        "name": "02. Criminal Law I Autor Mrs. Glory Nirmala y Ato Serkaddis Zegeye.pdf",
+        "category": "Criminal laws",
+        "address": "dataset\\Criminal law\\02. Criminal Law I Autor Mrs. Glory Nirmala y Ato Serkaddis Zegeye.pdf"
+      },
+      {
+        "name": "05. Introduction to the Laws of Timor-Leste Criminal Law Autor Erik Jensen.pdf",
+        "category": "Criminal laws",
+        "address": "dataset\\Criminal law\\05. Introduction to the Laws of Timor-Leste Criminal Law Autor Erik Jensen.pdf"
+      },
+      {
+        "name": "08. Introduction to Criminal Law Autor lardbucket.pdf",
+        "category": "Criminal laws",
+        "address": "dataset\\Criminal law\\08. Introduction to Criminal Law Autor lardbucket.pdf"
+      },
+      {
+        "name": "19. The Criminalization of Domestic Violence Promises and Limits Autor Jeffrey Fagan.pdf",
+        "category": "Criminal laws",
+        "address": "dataset\\Criminal law\\19. The Criminalization of Domestic Violence Promises and Limits Autor Jeffrey Fagan.pdf"
+      },
+      {
+        "name": "20. International Criminal Law Autor Judge Kevin Riordan.pdf",
+        "category": "Criminal laws",
+        "address": "dataset\\Criminal law\\20. International Criminal Law Autor Judge Kevin Riordan.pdf"
+      },
+      {
+        "name": "01. International Law Hadbook Collection of Instruments Book 1 Author Welcome to the United Nations.pdf",
+        "category": "International laws",
+        "address": "dataset\\International law\\01. International Law Hadbook Collection of Instruments Book 1 Author Welcome to the United Nations.pdf"
+      },
+      {
+        "name": "02. International Law Hadbook Collection of Instruments Book 2 Author Welcome to the United Nations (1).pdf",
+        "category": "International laws",
+        "address": "dataset\\International law\\02. International Law Hadbook Collection of Instruments Book 2 Author Welcome to the United Nations (1).pdf"
+      },
+      {
+        "name": "03. International Law Hadbook Collection of Instruments Book 3 Author Welcome to the United Nations.pdf",
+        "category": "International laws",
+        "address": "dataset\\International law\\03. International Law Hadbook Collection of Instruments Book 3 Author Welcome to the United Nations.pdf"
+      },
+      {
+        "name": "04. International Law Hadbook Collection of Instruments Book 4 Author Welcome to the United Nations.pdf",
+        "category": "International laws",
+        "address": "dataset\\International law\\04. International Law Hadbook Collection of Instruments Book 4 Author Welcome to the United Nations.pdf"
+      },
+      {
+        "name": "02. Labour Law. Its role, trends and potential author International Labour Organization.pdf",
+        "category": "Labour laws",
+        "address": "dataset\\Labour law\\02. Labour Law. Its role, trends and potential author International Labour Organization.pdf"
+      },
+      {
+        "name": "03. Labour Law and Industrial Relations in Recessionary Times author Michele Tiraboschi.pdf",
+        "category": "Labour laws",
+        "address": "dataset\\Labour law\\03. Labour Law and Industrial Relations in Recessionary Times author Michele Tiraboschi.pdf"
+      },
+      {
+        "name": "04. Modern policy and legislative responses to child labour author International Labour Organization.pdf",
+        "category": "Labour laws",
+        "address": "dataset\\Labour law\\04. Modern policy and legislative responses to child labour author International Labour Organization.pdf"
+      },
+      {
+        "name": "05. The New Labor Law author Kate Andrias.pdf",
+        "category": "Labour laws",
+        "address": "dataset\\Labour law\\05. The New Labor Law author Kate Andrias.pdf"
+      },
+      {
+        "name": "09. An Introduction to Employment Law author Pearson.pdf",
+        "category": "Labour laws",
+        "address": "dataset\\Labour law\\09. An Introduction to Employment Law author Pearson.pdf"
+      },
+      {
+        "name": "01. Fiscal Law Deskbook Author Contract and Fiscal Law Department The Judge Advocate General’s Legal Center and School United.pdf",
+        "category": "Tax laws",
+        "address": "dataset\\Tax law\\01. Fiscal Law Deskbook Author Contract and Fiscal Law Department The Judge Advocate General’s Legal Center and School United.pdf"
+      },
+      {
+        "name": "10. Law of Tax Administration and Procedure Author Richard K. Gordon.pdf",
+        "category": "Tax laws",
+        "address": "dataset\\Tax law\\10. Law of Tax Administration and Procedure Author Richard K. Gordon.pdf"
+      },
+      {
+        "name": "12. Law on Taxation Auhtor World Trade Organization.pdf",
+        "category": "Tax laws",
+        "address": "dataset\\Tax law\\12. Law on Taxation Auhtor World Trade Organization.pdf"
+      },
+      {
+        "name": "faderalist papers.txt",
+        "category": "Fedarlist papers",
+        "address": "dataset\\Fedarlist papers\\faderalist papers.txt"
+      }
+    ]
+  }
+  
